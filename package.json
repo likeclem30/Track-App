@@ -26,8 +26,7 @@
     "react-native-web": "~0.11.7",
     "react-navigation": "^4.2.2",
     "react-navigation-stack": "^2.2.2",
-    "react-navigation-tabs": "^2.8.2",
-    "undefined": "react-native-community/masked-view@0.1.5"
+    "react-navigation-tabs": "^2.8.2"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
